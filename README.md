@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi, I'm Francesco 👋
 
-### 📊 GitHub Stats
+**Web Developer**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frcec&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frcec&layout=compact&theme=transparent&hide_progress=false)
+I design and build software that prioritizes clarity, reliability, and long-term maintainability.
